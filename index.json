@@ -1,5 +1,19 @@
 {
   "version": "1",
-  "updateTime": "2026-11-16T12:00:00Z",
-  "plugins": []
+  "updateTime": "2026-11-16T12:24:20Z",
+  "plugins": [
+    {
+      "id": "napcat-plugin-ssqq",
+      "name": "Stapxs QQ Lite（SSQQ）",
+      "version": "3.5.2-3",
+      "description": "第三方 OneBot QQ 客户端的 NapCat 插件。此记录提供官方项目入口，不包含插件包，也不表示已安装或经过安全审计。插件封装与客户端及其资源适用不同许可，使用前请核对。",
+      "author": "林小槐",
+      "homepage": "https://github.com/Stapxs/Stapxs-QQ-Lite-2.0",
+      "downloadUrl": "",
+      "tags": [
+        "聊天",
+        "第三方"
+      ]
+    }
+  ]
 }
