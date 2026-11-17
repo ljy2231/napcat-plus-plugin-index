@@ -1,7 +1,6 @@
 # Napcat-Plus 插件索引
 
-这是 Napcat-Plus 的公开插件目录。插件条目须经来源、许可及信息审核后添加。
-
+这是 Napcat-Plus 的公开插件目录。
 ## 当前状态
 
 - 索引文件：[index.json](index.json)。
@@ -14,3 +13,6 @@
 `version` 为目录版本字符串；`updateTime` 为 ISO 8601 时间；`plugins` 为数组。单条记录包含 `id`、`name`、`version`、`description`、`author`、`homepage`、`downloadUrl` 和 `tags`。可申请安装的固定版本还需提供发布包的 `sha256` 和字节 `size`；仅填写这些字段不会自动获得客户端安装授权。`homepage` 使用不含凭据的 GitHub HTTPS 项目地址。
 
 目录内容不代表官方对第三方代码安全性或使用许可作出保证。提交条目前请提供项目来源、维护状态和许可证依据；具体客户端及其资源可能分别适用不同许可。
+
+
+当前仓库正处于测试阶段，尚未投入正式使用
